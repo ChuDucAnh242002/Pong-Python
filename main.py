@@ -1,4 +1,8 @@
 """
+    Author: Chu Duc Anh
+    Github: https://github.com/ChuDucAnh242002
+    Inspired by tech with team pong tutorial
+    https://www.youtube.com/watch?v=vVGTZlnnX3U
 """
 
 import pygame
